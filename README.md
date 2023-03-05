@@ -59,7 +59,9 @@ The following is a list of our current features and products, with distinct labe
 
 - **portfolio:** YNTI Portfolio Management
 - **analysis:** YNTI Business Analysis Tools
+- **experiments:** YNTI Experiment Management
 - **insights:** YNTI Insights
+- **infrastructure:** YNTI Infrastructure
 
 _More labels will be added in the future as needed._
 
